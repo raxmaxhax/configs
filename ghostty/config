@@ -4,3 +4,4 @@ background-opacity = 0.9
 font-family = JetBrains Mono
 theme = Catppuccin Mocha
 gtk-single-instance = true
+window-decoration = none
